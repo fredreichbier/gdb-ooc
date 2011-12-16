@@ -1,5 +1,7 @@
-b test__doStuff_s
-b test__doStuff_b
+print $ooc("my/epic/module/Path MyClass myFunction~suffy()")
+
+booc test doStuff~s
+booc test doStuff~b
 run
 
 print s

@@ -1,3 +1,4 @@
 from .printers import register_printers
+import mangle, breakpoint
 
-__all__ = ['printers']
+__all__ = ['printers', 'mangle', 'breakpoint']
